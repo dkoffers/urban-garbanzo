@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /urban-garbanzo
+exclude: ["README.md"]
